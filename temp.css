@@ -74,11 +74,7 @@ h1{
     font-weight: 700
     
 }
-button:hover{
- color: white;
- background-color: transparent;
- border: 3px solid white;
-}
+
 .butt{
     color: orange;
     padding-block: 15px;
@@ -124,6 +120,11 @@ button:hover{
         justify-content: center;
         align-items: center;
     }
+    button:hover{
+        color: white;
+        background-color: transparent;
+        border: 3px solid white;
+       }
 }
 
 
